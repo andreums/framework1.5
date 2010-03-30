@@ -1,0 +1,22 @@
+[31/03/2010 01:28:24] 	Error: (403 Forbidden for /afergodella/index.php/noticias IP=127.0.0.1 Parameters: ( GET=Array
+(
+)
+ | POST=Array
+(
+)
+ | FILE=Array
+(
+)
+ | SESSION=Array
+(
+    [FRAMEWORK_SESSION] => Array
+        (
+            [locale] => Array
+                (
+                    [currentLocale] => ca_ES
+                )
+
+        )
+
+)
+) at line 149 in /var/www/afergodella/framework/lib/dispatcher/Dispatcher.class.php 

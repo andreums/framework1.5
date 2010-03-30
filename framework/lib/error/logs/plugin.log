@@ -1,0 +1,5 @@
+[30/03/2010 23:53:39] 	Error: (Error: Plugin EmailPlugin does not provide a method addAtacchment to call) at line 101 in /var/www/afergodella/framework/plugins/BasePlugin.class.php 
+[31/03/2010 00:03:29] 	Error: (Email Plugin cannot locate  attachment file) at line 208 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:42] 	Error: (Email Plugin cannot locate  attachment file) at line 209 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:26:39] 	Error: (PluginRegistry Can't load plugin /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php) at line 96 in /var/www/afergodella/framework/plugins/PluginRegistry.class.php 
+[31/03/2010 00:27:07] 	Error: (Error: Plugin mapsPlugin does not provide a method getPluginDir to call) at line 101 in /var/www/afergodella/framework/plugins/BasePlugin.class.php 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	
+	<name>Calendar Plugin</name>
+	<class>CalendarPlugin</class>
+	<version>0.5</version>
+	<description>
+		Displays a calendar in a page
+	</description>
+	<status>enabled</status>
+	
+	<options>
+		<option name="defaultYear">
+			<value>1999</value>
+		</option>
+	</options>
+				
+	<files>
+		<file name="plugin.php" />		
+	</files>
+	
+	<jsFiles>
+		<file name="framework/plugins/CalendarPlugin/js/calendar.php" />
+	</jsFiles>
+	
+</plugin>
+
+
+
+
+
+
+

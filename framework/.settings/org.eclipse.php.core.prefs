@@ -1,0 +1,8 @@
+#Sat Feb 27 16:49:43 CET 2010
+eclipse.preferences.version=1
+org.eclipse.php.core.phpDoc=true
+org.eclipse.php.core.phpForamtterIndentationSize=4
+org.eclipse.php.core.phpForamtterUseTabs=false
+org.eclipse.php.core.taskCaseSensitive=enabled
+org.eclipse.php.core.taskPriorities=NORMAL,HIGH,NORMAL,NORMAL
+org.eclipse.php.core.taskTags=TODO,FIXME,XXX,@todo

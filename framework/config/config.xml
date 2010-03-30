@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <section name="database">
+        <host>localhost</host>
+        <database>framework</database>
+        <prefix>fw_</prefix>
+        <username>framework</username>
+        <password>framework</password>
+        <type>mysqli</type>
+		<modelDataCaching>serialize</modelDataCaching>
+    </section>
+
+    <section name="general">
+    	<defaultLocale>ca_ES</defaultLocale>		
+		<localeHack>.utf8</localeHack>        
+        <modRewrite>false</modRewrite>		
+    </section>
+	
+	<section name="date">
+		<dateSeparator>/</dateSeparator>
+		<dateFormat>dd%/%mm%/%yyyy</dateFormat>
+		<namedDateFormat>Dname dd de Mname de yyyy</namedDateFormat>
+	</section>
+	
+	<section name="paths">
+		<baseurl>http://localhost/framework/</baseurl>
+		<basePath>/var/www/framework</basePath>		
+		<externalPath>framework/lib/external</externalPath>
+		<pluginPath>framework/plugins</pluginPath>
+		<modelsPath>framework/models</modelsPath>
+		<helpersPath>framework/helpers</helpersPath>
+		<filtersPath>framework/lib/filter</filtersPath>
+        <modulePath>modules</modulePath>
+        <controllerPath>controller</controllerPath>
+        <modelPath>model</modelPath>
+        <viewPath>view</viewPath>
+		<errorPath>framework/lib/error</errorPath>
+		<widgetsPath>framework/widgets</widgetsPath>
+	</section>
+
+	<section name="errors">		
+		<debugLevel>0</debugLevel>
+		<customNotFoundTemplate> </customNotFoundTemplate>
+		<customForbiddenTemplate> </customForbiddenTemplate>
+		<customInternalErrorTemplate> </customInternalErrorTemplate>
+		<errorFile>errors.log</errorFile>
+	</section>
+
+	<section name="webServices">
+		<soapLibrary>php5soap</soapLibrary>
+		<soapAuthMethod>login</soapAuthMethod>
+		<restAuthMethod>login</restAuthMethod>
+	</section>
+
+</config>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>	
+	<route>
+		<path>/index.php/login</path>
+		<type>plugin</type>
+		<plugin>LoginPlugin</plugin>
+		<action>login</action>       
+	</route>
+	
+	<route>
+		<path>/index.php/logout</path>
+		<type>plugin</type>
+		<plugin>LoginPlugin</plugin>
+		<action>logout</action>       
+	</route>
+</routes>

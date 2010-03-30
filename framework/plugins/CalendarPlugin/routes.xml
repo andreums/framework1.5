@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+	<route>
+		<path>index.php/calendarPlugin/getCalendar</path>
+		<type>plugin</type>
+		<plugin>CalendarPlugin</plugin>
+		<action>getCalendar</action>		
+        <parameters>
+            <parameter name="month">
+                <type>integer</type>
+                <required>true</required>
+            </parameter>
+			<parameter name="year">
+                <type>integer</type>
+                <required>true</required>
+            </parameter>				
+        </parameters>   
+	</route>	
+</routes>

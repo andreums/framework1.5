@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>	
+	<name>Login Plugin</name>
+	<class>LoginPlugin</class>
+	<version>0.1</version>
+	<description>
+		Login functionalities
+	</description>
+	<status>enabled</status>	
+	<options>
+		
+	</options>
+				
+	<files>
+		<file name="plugin.php" />		
+	</files>
+	
+	<jsFiles>
+		<file name="js/calendar.php" />
+	</jsFiles>
+	
+</plugin>

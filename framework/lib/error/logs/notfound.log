@@ -1,0 +1,22 @@
+[31/03/2010 00:25:33] 	Error: (404 Not Found for /afergodella/index.php/maps IP=127.0.0.1 Parameters: ( GET=Array
+(
+)
+ | POST=Array
+(
+)
+ | FILE=Array
+(
+)
+ | SESSION=Array
+(
+    [FRAMEWORK_SESSION] => Array
+        (
+            [locale] => Array
+                (
+                    [currentLocale] => ca_ES
+                )
+
+        )
+
+)
+) at line 25 in /var/www/afergodella/modules/index/controller/indexController.php 

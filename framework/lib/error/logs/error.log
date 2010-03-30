@@ -1,0 +1,528 @@
+[30/03/2010 02:06:03] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:06:24] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:07:09] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:07:43] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:08:06] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:08:42] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:09:02] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:09:48] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:10:09] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:10:30] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:13:10] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:13:34] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 02:14:46] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 11:41:16] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 11:42:04] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 11:42:15] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 11:44:03] 	Error: (Non-static method Router::toURL() should not be called statically) at line 106 in /var/www/afergodella/framework/helpers/htmlHelper.php 
+[30/03/2010 11:44:25] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 11:44:39] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 12:46:13] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 12:56:23] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 12:58:18] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 12:58:28] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 12:58:28] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:09:39] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:09:39] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:10:45] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:10:45] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:11:07] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:11:07] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:12:33] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:12:33] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:13:33] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:13:33] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:13:33] 	Error: (date() expects parameter 2 to be long, string given) at line 72 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 13:13:41] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:13:41] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:13:41] 	Error: (date() expects parameter 2 to be long, string given) at line 72 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 13:13:55] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:13:55] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:13:55] 	Error: (date() expects parameter 2 to be long, string given) at line 73 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 13:14:08] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:14:08] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:14:18] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:14:18] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:16:42] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:16:42] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:30:41] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:30:41] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:30:41] 	Error: (Undefined property: timeHelper::$year) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:30:41] 	Error: (Undefined property: timeHelper::$month) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:30:41] 	Error: (Undefined property: timeHelper::$day) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:31:10] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:31:10] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:31:10] 	Error: (Undefined property: timeHelper::$year) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:31:10] 	Error: (Undefined property: timeHelper::$month) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:31:10] 	Error: (Undefined property: timeHelper::$day) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:37:56] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:37:56] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:37:56] 	Error: (Undefined property: timeHelper::$year) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:37:56] 	Error: (Undefined property: timeHelper::$month) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:37:56] 	Error: (Undefined property: timeHelper::$day) at line 38 in /var/www/afergodella/framework/core/singleton.php 
+[30/03/2010 13:38:16] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:38:16] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:42:43] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:42:43] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:42:53] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:42:53] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:43:38] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:43:38] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:03] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:03] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:16] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:16] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:18] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:18] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:19] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:19] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:19] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 13:44:19] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:21:48] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:21:48] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:21:48] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 64 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:21:48] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 64 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:22:51] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:22:51] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:22:51] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 64 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:22:51] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 64 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:22:51] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 65 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:22:51] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 65 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:20] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:23:20] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:23:20] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 66 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:20] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 66 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:20] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 67 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:20] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 67 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:37] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:23:37] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:23:37] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:37] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:37] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:37] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:59] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:23:59] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:23:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:23:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:25:32] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:25:32] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:25:32] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:25:32] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:25:32] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:25:32] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:26:03] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:26:03] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:26:03] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:26:03] 	Error: (Undefined variable: _init) at line 49 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:26:17] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:26:17] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:26:17] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:26:35] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:26:35] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:26:35] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:26:35] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:26:35] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:26:35] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:27:33] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:27:33] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:27:33] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:27:33] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 68 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:27:33] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:27:33] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 69 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:32:53] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:32:53] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:32:53] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 101 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:33:04] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:33:04] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:33:04] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 99 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:03] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:34:03] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:34:03] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 99 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:03] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 99 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:03] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 100 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:03] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 100 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:46] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:34:46] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:34:46] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 99 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:46] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 99 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:46] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 100 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:34:46] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 100 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:47:56] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 14:48:19] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:48:19] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:24] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:24] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:34] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:34] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:44] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:44] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:53] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:54:53] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:55:36] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:55:36] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 14:55:36] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 107 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 14:55:36] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 108 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:05:36] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:05:36] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:05:36] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 216 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:05:36] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 217 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:05] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:05] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:05] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 216 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:05] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 217 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:06] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:06] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:06] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 216 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:06] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 217 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:39] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:39] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:39] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:39] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:39] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:39] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:54] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:54] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:06:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:06:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:13] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:07:13] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:07:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:29] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:07:29] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:07:29] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:29] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 181 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:29] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 182 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:29] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 182 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:54] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:07:54] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:07:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 182 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 182 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 183 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:07:54] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 183 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:24] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:24] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:24] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 182 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:24] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 182 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:24] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 183 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:24] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 183 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:47] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:47] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:47] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:47] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:47] 	Error: (Undefined variable: date) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:56] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:56] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:56] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:56] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:56] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:56] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:59] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:59] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:08:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:08:59] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:04] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:04] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:04] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:04] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:04] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:04] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:07] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:07] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:07] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:07] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:07] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:07] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 180 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:13] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:13] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:13] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 179 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:17] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:17] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 15:09:17] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 15:09:17] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 16:58:07] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 16:58:07] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 16:58:08] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 16:58:08] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 16:58:20] 	Error: (Missing argument 3 for header_tag(), called in /var/www/afergodella/modules/index/view/helperTest.php on line 2 and defined) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 16:58:20] 	Error: (Undefined variable: options) at line 2 in /var/www/afergodella/modules/index/view/helperTest.php 
+[30/03/2010 16:58:20] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 16:58:20] 	Error: (Non-static method i18n::translate() should not be called statically, assuming $this from incompatible context) at line 178 in /var/www/afergodella/framework/helpers/timeHelper.php 
+[30/03/2010 18:19:11] 	Error: (Undefined variable: mail) at line 128 in /var/www/afergodella/framework/lib/controller/BaseController.class.php 
+[30/03/2010 18:19:23] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:19:31] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:23:45] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:25:15] 	Error: (Undefined variable: mailType) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:25:37] 	Error: (Undefined variable: mailType) at line 319 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:26:08] 	Error: (Undefined variable: mailType) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:26:16] 	Error: (Undefined variable: mailType) at line 319 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:26:35] 	Error: (Undefined variable: mailType) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:26:55] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:27:04] 	Error: (Undefined variable: mailType) at line 316 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:27:25] 	Error: (Creating default object from empty value) at line 315 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:27:25] 	Error: (Undefined variable: mailType) at line 315 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:38:31] 	Error: (Creating default object from empty value) at line 320 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:38:31] 	Error: (Undefined variable: mailType) at line 320 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:38:46] 	Error: (Creating default object from empty value) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:38:46] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:42:50] 	Error: (Creating default object from empty value) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:42:50] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:47:58] 	Error: (Creating default object from empty value) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:47:58] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:48:16] 	Error: (Creating default object from empty value) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:48:16] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:49:14] 	Error: (Creating default object from empty value) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:49:14] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:49:38] 	Error: (Creating default object from empty value) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:49:38] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:51:36] 	Error: (Creating default object from empty value) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:51:36] 	Error: (Undefined variable: mailType) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:52:25] 	Error: (Creating default object from empty value) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 18:52:25] 	Error: (Undefined variable: mailType) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 19:08:18] 	Error: (Creating default object from empty value) at line 23 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 19:08:18] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 19:08:34] 	Error: (Creating default object from empty value) at line 23 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 19:08:34] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 22:04:41] 	Error: (Creating default object from empty value) at line 23 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 22:04:41] 	Error: (Undefined variable: mailType) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:22:53] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[30/03/2010 23:22:57] 	Error: (Creating default object from empty value) at line 22 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:22:57] 	Error: (Undefined variable: mailType) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:32:24] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:32:24] 	Error: (Undefined variable: mailType) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:33:33] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:33:33] 	Error: (Undefined variable: mailType) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:38:11] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:38:11] 	Error: (Undefined variable: mailType) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:39:00] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:39:00] 	Error: (Undefined variable: mailType) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:39:00] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:20] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:40:20] 	Error: (Undefined variable: mailType) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:20] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:35] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:40:35] 	Error: (Undefined variable: mailType) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:35] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:38] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:40:38] 	Error: (Undefined variable: mailType) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:38] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:41] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:40:41] 	Error: (Undefined variable: mailType) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:41] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:51] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:40:51] 	Error: (Undefined variable: mailType) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:40:51] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:08] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:41:08] 	Error: (Undefined variable: mailType) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:08] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:19] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:41:19] 	Error: (Undefined variable: mailType) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:19] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:40] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:41:40] 	Error: (Undefined variable: mailType) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:40] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:48] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:41:48] 	Error: (Undefined variable: mailType) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:41:48] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:03] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:42:03] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 151 and defined) at line 151 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:03] 	Error: (Undefined variable: type) at line 151 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:03] 	Error: (Undefined variable: type) at line 151 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:03] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:19] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:42:19] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 152 and defined) at line 152 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:19] 	Error: (Undefined variable: type) at line 152 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:19] 	Error: (Undefined variable: type) at line 152 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:19] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 325 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:42] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:42:42] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 150 and defined) at line 150 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:42] 	Error: (Undefined variable: type) at line 150 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:42] 	Error: (Undefined variable: type) at line 150 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:42:42] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:05] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:47:05] 	Error: (Undefined variable: template) at line 326 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:05] 	Error: (Undefined index:  extension) at line 326 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:05] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 153 and defined) at line 153 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:05] 	Error: (Undefined variable: type) at line 153 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:05] 	Error: (Undefined variable: type) at line 153 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:05] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 326 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:32] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:47:32] 	Error: (Undefined variable: template) at line 327 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:32] 	Error: (Undefined index:  extension) at line 327 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:32] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 154 and defined) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:32] 	Error: (Undefined variable: type) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:32] 	Error: (Undefined variable: type) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:32] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 327 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:43] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:47:43] 	Error: (Undefined index:  extension) at line 327 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:43] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 154 and defined) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:43] 	Error: (Undefined variable: type) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:43] 	Error: (Undefined variable: type) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:43] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 327 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:54] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:47:54] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 154 and defined) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:54] 	Error: (Undefined variable: type) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:54] 	Error: (Undefined variable: type) at line 154 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:47:54] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 327 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:49:39] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:49:39] 	Error: (Undefined index:  extension) at line 325 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:49:39] 	Error: (Missing argument 3 for EmailPlugin::_renderMailTemplate(), called in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php on line 152 and defined) at line 152 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:49:39] 	Error: (Undefined variable: type) at line 152 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:49:39] 	Error: (Undefined variable: type) at line 152 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:49:39] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 325 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:49:54] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:49:54] 	Error: (Undefined index:  extension) at line 325 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:49:54] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 325 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:50:10] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:50:10] 	Error: (Undefined index:  extension) at line 326 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:50:10] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 326 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:50:33] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:50:33] 	Error: (Undefined index:  extension) at line 328 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:50:33] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 328 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:50:46] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:50:46] 	Error: (Undefined index:  extension) at line 329 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:50:46] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 329 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:51:02] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:51:02] 	Error: (Undefined index:  extension) at line 324 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:53:39] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:53:39] 	Error: (Undefined index:  extension) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[30/03/2010 23:54:44] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[30/03/2010 23:54:44] 	Error: (Undefined index:  extension) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:29] 	Error: (Undefined variable: attachmentfile) at line 26 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:03:29] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:03:29] 	Error: (Undefined index:  extension) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:29] 	Error: (Undefined variable: templateFile) at line 151 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:29] 	Error: (file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty) at line 87 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:29] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 317 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:42] 	Error: (Undefined variable: attachmentfile) at line 26 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:03:42] 	Error: (Creating default object from empty value) at line 29 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:03:42] 	Error: (Undefined index:  extension) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:42] 	Error: (Undefined variable: templateFile) at line 151 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:42] 	Error: (file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty) at line 87 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:42] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:47] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:03:47] 	Error: (Undefined index:  extension) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:47] 	Error: (Undefined variable: templateFile) at line 151 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:47] 	Error: (file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty) at line 87 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:03:47] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 318 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:29] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:04:29] 	Error: (Undefined index:  extension) at line 320 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:29] 	Error: (Undefined variable: templateFile) at line 153 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:29] 	Error: (file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty) at line 89 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:29] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 320 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:39] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:04:39] 	Error: (Undefined index:  extension) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:39] 	Error: (Undefined variable: templateFile) at line 155 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:39] 	Error: (file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty) at line 91 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:04:39] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:02] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:05:02] 	Error: (Undefined index:  extension) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:02] 	Error: (Undefined variable: templateFile) at line 155 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:02] 	Error: (file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty) at line 91 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:02] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:09] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:05:09] 	Error: (Undefined index:  extension) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:09] 	Error: (Undefined variable: templateFile) at line 155 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:09] 	Error: (file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty) at line 91 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:09] 	Error: (Undefined property: stdClass::$ErrorInfo) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:05:25] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:05:25] 	Error: (Undefined index:  extension) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:06:12] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:06:12] 	Error: (Undefined index:  extension) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:06:41] 	Error: (Creating default object from empty value) at line 28 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:06:41] 	Error: (Undefined index:  extension) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:09:04] 	Error: (Creating default object from empty value) at line 27 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:09:04] 	Error: (Undefined index:  extension) at line 322 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:09:24] 	Error: (Creating default object from empty value) at line 27 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:09:24] 	Error: (Undefined index:  extension) at line 323 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:09:50] 	Error: (Creating default object from empty value) at line 27 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:09:50] 	Error: (Undefined index:  extension) at line 315 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:10:25] 	Error: (Creating default object from empty value) at line 24 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:10:25] 	Error: (Undefined index:  extension) at line 315 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:10:43] 	Error: (Creating default object from empty value) at line 24 in /var/www/afergodella/modules/index/view/mailerTest.php 
+[31/03/2010 00:10:43] 	Error: (Undefined index:  extension) at line 316 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:11:42] 	Error: (Undefined index:  extension) at line 316 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:13:19] 	Error: (Undefined index:  extension) at line 309 in /var/www/afergodella/framework/plugins/EmailPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Missing argument 1 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Missing argument 2 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Missing argument 3 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Missing argument 4 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Undefined variable: mapDiv) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Undefined variable: mapJsVar) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Undefined variable: mapZoom) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:29:12] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Missing argument 1 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Missing argument 2 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Missing argument 3 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Missing argument 4 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Undefined variable: mapDiv) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Undefined variable: mapJsVar) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Undefined variable: mapZoom) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:00] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Missing argument 1 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Missing argument 2 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Missing argument 3 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Missing argument 4 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Undefined variable: mapDiv) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Undefined variable: mapJsVar) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Undefined variable: mapZoom) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:32:33] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Missing argument 1 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Missing argument 2 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Missing argument 3 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Missing argument 4 for GoogleMap3::__construct(), called in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php on line 16 and defined) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Undefined variable: mapDiv) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Undefined variable: mapJsVar) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Undefined variable: mapZoom) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:33:19] 	Error: (Undefined variable: mapType) at line 16 in /var/www/afergodella/framework/plugins/mapsPlugin/plugin.php 
+[31/03/2010 00:44:30] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:45:13] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:45:44] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:46:13] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:46:21] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:47:19] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:47:59] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:48:51] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:49:59] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:51:16] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:51:32] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:52:08] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:52:24] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:52:53] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:17] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:26] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:39] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:39] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:39] 	Error: (Undefined offset:  1) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:46] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:46] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:46] 	Error: (Undefined offset:  1) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:59] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:59] 	Error: (Trying to get property of non-object) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:53:59] 	Error: (Undefined offset:  1) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 00:55:03] 	Error: (Undefined offset:  1) at line 168 in /var/www/afergodella/framework/plugins/mapsPlugin/googleMaps3.php 
+[31/03/2010 01:28:27] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 
+[31/03/2010 01:28:43] 	Error: (Constant FATAL already defined) at line 86 in /var/www/afergodella/framework/plugins/BulkSMSPlugin/bulksms.php 

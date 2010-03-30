@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>	
+	<name>RSS Plugin</name>
+	<class>rssPlugin</class>
+	<version>0.1</version>
+	<description>
+		Facilities to generate and retreive RSS feeds
+	</description>
+	<status>enabled</status>
+	
+	<options>		
+		<option name="feedType">
+			<value>RSS 2.0</value>
+		</option>		
+		<option name="channelTitle">
+			<value>Associació Ferroviària de Godella</value>
+		</option>		
+		<option name="channelLink">
+			<value>http://localhost/afergodella/index.php/rss</value>
+		</option>
+		<option name="channelDescription">
+			<value>Canal RSS de l'Associació Ferroviària de Godella</value>
+		</option>
+		<option name="channelImage">
+			<value>http://afergodella.es/wp-content/themes/dailypress-es/images/logo.gif</value>
+		</option>
+		<option name="channelLanguage">
+			<value>ca-es</value>
+		</option>			
+	</options>
+					
+	<files>
+		<file name="plugin.php" />		
+	</files>
+	
+	<jsFiles>
+				
+	</jsFiles>
+	
+</plugin>
