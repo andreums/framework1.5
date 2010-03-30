@@ -302,11 +302,14 @@ class ErrorHandler extends Singleton {
         try {
             $info = pathinfo($_SERVER["SCRIPT_FILENAME"]);
             $dir = $info["dirname"];
-            $dir = $dir.DS."framework".DS."lib".DS."error".DS."logs".DS;
+            $dir = $dir.DS."framework".DS."lib".DS."error".DS."logs";
 
             $file = $dir.DS."{$type}.log";
             if (!file_exists($file)) {
-                if (!touch($file) ) {
+                try {
+                    touch($file);
+                }
+                catch (Exception $ex) {
                     throw new Exception ("Can't create file {$file}, please check permissions");
                 }
             }
@@ -345,7 +348,10 @@ class ErrorHandler extends Singleton {
 
             $file = $dir.DS."{$type}.log";
             if (!file_exists($file)) {
-                if (!touch($file) ) {
+                try {
+                    touch($file);
+                }
+                catch (Exception $ex) {
                     throw new Exception ("Can't create file {$file}, please check permissions");
                 }
             }
